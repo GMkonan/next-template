@@ -21,6 +21,7 @@ const GlobalStyles = createGlobalStyle`
   :root {
     --white: #fffffe; //#fffffe
     --off-white: hsl(225deg 25% 95%); //hsl(225deg 25% 95%)
+    --dark-blue: #094067;
   }
 
   /* [data-theme='dark'] {
