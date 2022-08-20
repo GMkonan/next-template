@@ -22,6 +22,8 @@ const GlobalStyles = createGlobalStyle`
     --white: #fffffe; //#fffffe
     --off-white: hsl(225deg 25% 95%); //hsl(225deg 25% 95%)
     --dark-blue: #094067;
+    --gray: #5f6c7b;
+    --primary: #3da9fc;
   }
 
   /* [data-theme='dark'] {
